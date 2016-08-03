@@ -1,0 +1,61 @@
+{
+  "name": "wolly",
+  "version": "1.0.0",
+  "description": "Downloading wallpapers through command line done right!",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedotjs/wolly.git"
+  },
+  "author": "Rishi Giri <rushforlinux@gmail.com> (rishigiri.com)",
+  "bin": {
+    "wolly": "cli.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "wolly",
+    "HD",
+    "high-resolution",
+    "Wallpaper",
+    "awesome",
+    "beautiful",
+    "nature",
+    "images",
+    "download",
+    "CLI",
+    "CLI-app",
+    "art",
+    "thewallpaper",
+    "daily"
+  ],
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "cheerio": "^0.20.0",
+    "execa": "^0.4.0",
+    "got": "^6.3.0",
+    "is-url": "^1.2.2",
+    "log-update": "1.0.2",
+    "mkdirp": "0.5.1",
+    "ora": "^0.2.1",
+    "request": "^2.72.0",
+    "update-notifier": "^1.0.2",
+    "wolpi": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/codedotjs/wolly/issues"
+  },
+  "homepage": "https://github.com/codedotjs/wolly#readme",
+  "main": "cli.js"
+}
