@@ -8,7 +8,7 @@
   <br>
 </h1>
 
-> :star: Downloading wallpapers through command line done right !
+> :ribbon: Downloading wallpapers through command line done right !
 
 ## Install
 
