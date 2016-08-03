@@ -3,7 +3,7 @@
   <img width="550" src="media/aye.png" alt="wolly">
   <br>
   <a href="https://travis-ci.org/CodeDotJS/wolly">
-  <img src="https://travis-ci.org/CodeDotJS/gictivity.svg?branch=master">
+  <img src="https://travis-ci.org/CodeDotJS/wolly.svg?branch=master">
   </a>
   <br>
 </h1>
