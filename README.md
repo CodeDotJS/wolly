@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img width="550" src="media/aye.png" alt="wolly">
+  <img width="550" src="https://raw.githubusercontent.com/CodeDotJS/wolly/master/media/main.png" alt="wolly">
   <br>
   <a href="https://travis-ci.org/CodeDotJS/wolly">
   <img src="https://travis-ci.org/CodeDotJS/wolly.svg?branch=master">
@@ -8,11 +8,11 @@
   <br>
 </h1>
 
-> :ribbon: Downloading wallpapers through command line done right !
+>:ribbon: Downloading wallpapers through command line done right !
 
 ## Install
 
-__`Required`[`NodeJS`](http://nodejs.org)`version :`__ __`>=4`__ 
+__`Required`[`NodeJS`](http://nodejs.org)`version :`__ __`>=4`__
 
 ```sh
 $ npm install --global wolly
@@ -25,10 +25,10 @@ $ sudo npm install --global wolly
 ## Preview
 
 <p align="center">
-<img width="700" src="media/wolly.gif">
+<img width="700" src="https://raw.githubusercontent.com/CodeDotJS/wolly/master/media/wolly.gif">
 </p>
 
-## Usage 
+## Usage
 
 ```
  Usage   : wolly [command] <option>
@@ -48,7 +48,7 @@ $ sudo npm install --global wolly
  Option :
  › Specify -1,-2 or -3 without any argument to print link in json
  › Specify --save after -1 or -2 to save links in a text file
- 
+
  Tool :
  -h,--help              Show help
  -v,--version           Show current version
@@ -63,7 +63,7 @@ $ sudo npm install --global wolly
 
 Some more features which I want to add -
 
-__`✖`__ download wallpapers category wise like - `Laptop, Unicorns, Girls, Nature` 
+__`✖`__ download wallpapers category wise like - `Laptop, Unicorns, Girls, Nature`
 
 __`✖`__ export `bulk links` in a file `( text/json )`
 

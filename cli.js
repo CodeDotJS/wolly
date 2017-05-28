@@ -41,7 +41,7 @@ if (arg === '--help' || arg === '-h') {
  ${chalk.cyan('Option :')}
  ${chalk.yellow(pre)}Specify ${chalk.yellow('-1')},${chalk.yellow('-2')} or ${chalk.yellow('-3')} without any argument to print link in json
  ${chalk.yellow(pre)}Specify ${chalk.yellow('--save')} after ${chalk.yellow('-1')} or ${chalk.yellow('-2')} to save links in a text file
- 
+
  ${chalk.cyan('Tool :')}
  ${chalk.bold('-h')},${chalk.dim('--help')}              Show help
  ${chalk.bold('-v')},${chalk.dim('--version')}           Show current version
