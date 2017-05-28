@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img width="550" src="https://raw.githubusercontent.com/CodeDotJS/wolly/master/media/main.png" alt="wolly">
+  <img width="550" src="https://raw.githubusercontent.com/CodeDotJS/wolly/master/media/aye.png" alt="wolly">
   <br>
   <a href="https://travis-ci.org/CodeDotJS/wolly">
   <img src="https://travis-ci.org/CodeDotJS/wolly.svg?branch=master">
